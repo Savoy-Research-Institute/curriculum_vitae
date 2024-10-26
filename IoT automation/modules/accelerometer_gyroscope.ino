@@ -23,9 +23,6 @@ the accelerometer will sense that movement and tell the phone to change the scre
 */
 
 
-
-
-
 /*A gyroscope is a sensor that helps figure out which way something is turning or rotating.
 Imagine spinning a top:
 When you spin a top, it stays upright as long as it’s spinning fast, but once it slows down, it wobbles and falls over. The top stays balanced while it’s spinning because of something called rotation stability.
